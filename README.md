@@ -1,5 +1,6 @@
 # CSE-544
-This repository shows my work in CSE-544 (Probability and Statistics For Data Science)
+This repository shows my work in CSE-544 (Probability and Statistics For Data Science).
+
 I have taken this course in Spring 2020.
 
 I have the following in the repo:
